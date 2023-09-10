@@ -1,0 +1,13 @@
+.min-h-screen{
+    min-height: auto;
+    background-color:  rgb(125, 209, 235);
+} 
+ .flex{ 
+    display:flex; 
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
